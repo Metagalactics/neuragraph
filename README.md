@@ -1,6 +1,4 @@
 # neuragraph
 neuragraph
 
-πππππππππππππ
-
-
+ππππππππππππππ
